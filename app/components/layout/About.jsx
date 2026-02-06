@@ -15,14 +15,14 @@ export default function About() {
                 Behavioral Therapy, EMDR, and Somatic therapy.
               </p>
               <p>
-                Whether you're managing anxiety, processing trauma, or exhausted from perfectionism, I
+                Whether you&apos;re managing anxiety, processing trauma, or exhausted from perfectionism, I
                 work collaboratively with you to understand your unique experience and develop tools
-                that truly fit your life. Therapy isn't just about talking - it's about
+                that truly fit your life. Therapy isn&apos;t just about talking - it&apos;s about
                 transformation.
               </p>
               <p>
-                I'm committed to creating a safe space where you can be completely yourself, share
-                what's hard, and move toward the life you want to live.
+                I&apos;m committed to creating a safe space where you can be completely yourself, share
+                what&apos;s hard, and move toward the life you want to live.
               </p>
             </div>
           </div>

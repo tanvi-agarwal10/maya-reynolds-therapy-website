@@ -24,7 +24,7 @@ export default function Services() {
       <div className="section-container">
         <div className="heading-section">
           <h2>How I Can Help You</h2>
-          <p>Whether it's overwhelm, old wounds, or burnout - there's a path forward, and it starts here.</p>
+          <p>Whether it&apos;s overwhelm, old wounds, or burnout - there&apos;s a path forward, and it starts here.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
